@@ -72,28 +72,29 @@ li:hover {
   background-color: var(--white-color);
   width: 200px;
   border-radius: 0 16px 16px 16px;
+  padding: 8px;
 }
 
 .sub_menu_1 {
   position: absolute;
   top: 8px;
-  left: 184px;
+  left: 192px;
 }
 
 .sub_menu_2 {
   position: absolute;
   top: 40px;
-  left: 184px;
+  left: 192px;
 }
 
 .sub_menu_3 {
   position: absolute;
   top: 72px;
-  left: 184px;
+  left: 192px;
 }
 
 .sub_menu_4 {
   position: absolute;
   top: 104px;
-  left: 184px;
+  left: 192px;
 }

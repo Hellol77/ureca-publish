@@ -20,4 +20,9 @@ a:link {
   width: 1000px;
   background-color: red;
   height: 650px;
+  display: flex;
+}
+
+li > span {
+  transition: 0.3s;
 }

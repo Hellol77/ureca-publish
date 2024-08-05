@@ -79,6 +79,7 @@ li:hover {
   position: absolute;
   top: 8px;
   left: 192px;
+  z-index: 999;
 }
 
 .sub_menu_2 {
